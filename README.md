@@ -55,7 +55,7 @@ The goal was to demonstrate how **reinforcement learning** enables autonomous st
 
 ### Run Training & Play  
 ```bash
-git clone https://github.com/your-username/rl-tictactoe.git
+[git clone https://github.com/your-username/rl-tictactoe.git](https://github.com/NirajJaishwal/Reinforcement-Learning---Tic-Tac-Toe.git)
 cd rl-tictactoe
 python main.py   # Train the Q-learning agent
 python minimax.py    # Play against the trained agent
